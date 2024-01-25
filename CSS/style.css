@@ -1,0 +1,25 @@
+h1{
+   color:blue; 
+}
+body{
+   background-color:pink;
+}
+p{
+  color:blue;
+  font: oblique bold 120% cursive;
+  font-size:15
+}
+
+img.img-peque{
+   width:150px;
+   height:145;
+}
+
+img.img-peque2{
+  width:150px;
+  heidth:145;
+}
+
+p.parrafito{
+     color:red;
+}
