@@ -20,6 +20,20 @@ img.img-peque2{
   heidth:145;
 }
 
+img.img-peque3{
+  width:160px;
+  heidth:145;
+}
+
 p.parrafito{
      color:red;
+}
+
+img.img-peque2{
+ border-radius:50%
+}
+
+th.pasatiempo{
+  font: oblique bold 120% cursive;
+  
 }
