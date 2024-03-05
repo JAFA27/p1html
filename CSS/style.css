@@ -177,3 +177,18 @@ div.divisioncita2{
 	padding: 50px 30px 50px 80px;
 	margin: 25px 50px 75px 100px;
 }
+
+@keyframes rotate {
+	from {
+		transform: rotate(0deg)
+	}
+	to {
+		transform: rotate(360deg)
+	}
+}
+div.division1{
+	animation:rotate 2s inear infinite;
+	width:10px;
+	height:20px;
+	margin-top:100px;
+}
